@@ -104,8 +104,6 @@ s_usb = s1-s2;
 subplot(4,1,4);
 plot(t,s_usb);
 
----
-
 
 
 Output Waveform
