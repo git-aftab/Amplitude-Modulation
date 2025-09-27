@@ -75,7 +75,7 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 •	Verify the generated waveform using Tabulation and Model Waveform
 
 Program
----
+--- asm
 Am = 5.8;
 fm = 497;
 Ac = 11.6;
@@ -115,8 +115,7 @@ Output Waveform
 
 
 TABULATION:
-
-
+![ae1cb2fd-2658-463d-94c2-e695d46e85d2](https://github.com/user-attachments/assets/2000e4c6-5343-473a-b75f-1e158340c862)
 
 Calculation
 1.	ma (Theory) = am/ac =
